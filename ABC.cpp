@@ -11,8 +11,7 @@ int main() {
 	cout << "  ...   ...           "<<endl;
 	cout << "  ...   ...            "<<endl;
 	cout << "  ...   ...               "<<endl;
-cout<< ""<<endl;
-system("color 23");
+
         cout << "  ...   ...         "<<endl;
 	cout << "  ...   ...             "<<endl;
 	cout << "  ...   ...            "<<endl;
@@ -22,10 +21,10 @@ system("color 23");
 	cout << "  ...   ...           "<<endl;
 	cout << "  ...   ...            "<<endl;
 	cout << "  ...   ...               "<<endl;
-cout<< ""<<endl;
-system("color 23");
+
+
         cout << "  .........         "<<endl;
-	cout << "  .........             "<<endl;
+	cout << "  ......... y            "<<endl;
 	cout << "        ...            "<<endl;
 	cout << "       ...             "<<endl;
 	cout << "      ...            "<<endl;
@@ -33,8 +32,8 @@ system("color 23");
 	cout << "   ...            "<<endl;
 	cout << "  .........               "<<endl;
         cout << "  .........               "<<endl;
-cout<< ""<<endl;
-system("color 23");
+
+
         cout << "  ...   ...         "<<endl;
 	cout << "  ...   ...             "<<endl;
 	cout << "  ...   ...            "<<endl;
@@ -44,8 +43,7 @@ system("color 23");
 	cout << "  ...   ...           "<<endl;
 	cout << "  ...   ...            "<<endl;
 	cout << "  ...   ...               "<<endl;
-cout<< ""<<endl;
-system("color 23");
+
  	cout << "  .........         "<<endl;
 	cout << "  .........             "<<endl;
 	cout << "  ...   ...            "<<endl;
@@ -57,7 +55,7 @@ system("color 23");
 	cout << "  .........               "<<endl;
 	cout << "  .........               "<<endl;
 
-system("color 23");
+system("23");
 
   return 0;
 }
